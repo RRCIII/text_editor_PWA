@@ -39,7 +39,6 @@ export const getDb = async () => {
   } else {
     console.error("getDb not implemented");
   }
-
 };
 
 initdb();
