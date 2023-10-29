@@ -30,7 +30,7 @@ A single-page text editor PWA (Progressive Web Application) running in the brows
 
 <img width="650px" src="./images/Screenshot_text-editor-heroku_icon.png" />
 
-<img width="400px" src="./images/Screenshot_text-editor-heroku_install.png" />
+<img width="100px" src="./images/Screenshot_text-editor-heroku_install.png" />
 
 ## Credits
 
