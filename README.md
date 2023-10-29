@@ -28,9 +28,9 @@ A single-page text editor PWA (Progressive Web Application) running in the brows
 
 - #### If desired, drag and drop the installed application from Chrome Apps folder to the Desktop folder, to create a desktop icon for the PWA.
 
-<img width="650px" src="./images/Screenshot_text-editor-heroku_icon.png" />
+<img width="400px" src="./images/Screenshot_text-editor-heroku_icon.png" />
 
-<img width="100px" src="./images/Screenshot_text-editor-heroku_install.png" />
+<img width="400px" src="./images/Screenshot_text-editor-heroku_install.png" />
 
 ## Credits
 
